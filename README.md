@@ -9,6 +9,8 @@ Automatically lock WeChat to prevent privacy breaches.
 
 
 
+
+
 EN：
 1. When the program starts, enter the 'system idle duration' in minutes;
 2. If no input is made within 10 seconds, or if an invalid value is entered, the program defaults to a system idle time of 3 minutes;
